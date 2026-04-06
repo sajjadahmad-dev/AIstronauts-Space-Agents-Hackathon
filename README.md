@@ -2,20 +2,6 @@
 
 Welcome to **AIstronauts**, an AI-powered system designed to revolutionize space operations by automating mission planning and ground station workflows. This project combines **Reinforcement Learning (RL)** and **Natural Language Processing (NLP)** to create intelligent agents for space missions.
 
----
-
-## **Table of Contents**
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [Technology Stack](#technology-stack)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Project Structure](#project-structure)
-7. [Contributing](#contributing)
-8. [License](#license)
-
----
-
 ## **Project Overview**
 AIstronauts is a **Space Operations Management System** that integrates two main components:
 1. **Mission Planning System**: Uses Reinforcement Learning (RL) to optimize mission plans for space operations.
